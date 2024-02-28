@@ -1,3 +1,3 @@
 # NoDamage  
 
-**A plugin that can remove blocks placed by players after a certain period of time.**  
+**A plugin that cancel blocks break and damage.**  
