@@ -1,3 +1,3 @@
 # NoDamage  
 
-**A plugin that cancel block break and damage.**  
+**A simple plugin that cancels block break and damage.**  
